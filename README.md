@@ -1,1 +1,1 @@
-# imulating-Mechanisms-using-MATLAB
+# simulating-Mechanisms-using-MATLAB
